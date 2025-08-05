@@ -1,4 +1,3 @@
-import './bootstrap';
 
 import { createApp } from 'vue'
 import App from './vueJs/App.vue'
